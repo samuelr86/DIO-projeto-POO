@@ -12,7 +12,6 @@ public class Bootcamp {
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
     private Set<Dev> devsInscritos = new HashSet<>();
 
-
     public String getNome() {
         return nome;
     }
